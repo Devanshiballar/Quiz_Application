@@ -20,7 +20,7 @@ app.use("/api/v1/quiz", quizRoutes);
 
 app.get("/", (req, res) => {
   res.send(
-    "<center><h1>Quiz Application </h1><br>Get Recipe Api <a href=https://github.com/Devanshiballar/E-Library-Management.git target=_blank>Repository :Quiz Application</a></center>"
+    "<center><h1>Quiz Application </h1><br>Get Recipe Api <a href=https://github.com/Devanshiballar/Quiz_Application.git target=_blank>Repository :Quiz Application</a></center>"
   );
 });
 
